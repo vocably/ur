@@ -1,0 +1,4 @@
+blurry
+hazy
+foggy
+dim
